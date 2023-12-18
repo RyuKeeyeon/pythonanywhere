@@ -1,0 +1,6 @@
+myvenv/
+*.pyc
+
+crawl/
+
+template_save/
